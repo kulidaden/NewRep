@@ -61,7 +61,7 @@
 # ///////
 
 
-list=['lower','higer','324','al342','disignore','hello']
+list=['lower','higer','324','al3yyrtyrty42','disignore','hello']
 list.sort()
 print(list)
 list.reverse()
